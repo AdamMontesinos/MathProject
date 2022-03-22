@@ -13,28 +13,11 @@ necessari treballar amb aquest sistema).
 
 ## Screenshots
 
-The navigation of the application is done through the bottom navigation and the fragments!
 
 ## Technologies
-This project is developed with android studio (java).
-I've used this extra clases:
-
-* SQLiteDatabase for the local storage
-* Fragment Manager
-* Recycler View
-* Toast
-* Google
-* Others
 
 ## Finished Tasks
-- [x] Login screen
-- [x] Bottom navigation
-- [x] Local Storage Sqlite
-- [x] Three Menus
-- [x] Recycler View of Players
-- [x] Delete
-- [x] Toast
+- [x] Nada
 
 ## Difficulties
 
-- Recycler view
