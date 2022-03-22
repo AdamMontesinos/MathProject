@@ -1,6 +1,7 @@
 # MathProject
 
-## SELECTIVITAT ÀLGEBRA LINEAL
+## ÀLGEBRA LINEAL
+* Equacions de segon grau
 * Operacions amb matrius (suma, producte i producte per un escalar).
 * Determinants d’ordre 2 o 3. Rang d’una matriu. Càlcul de la matriu inversa (en el cas
 del càlcul de la matriu inversa, el màxim ordre de la matriu serà 3).
