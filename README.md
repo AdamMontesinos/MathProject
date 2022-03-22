@@ -37,5 +37,3 @@ I've used this extra clases:
 ## Difficulties
 
 - Recycler view
-
-BYE BYE!
