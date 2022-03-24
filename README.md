@@ -11,22 +11,22 @@ tres equacions i de tres incògnites; si en una qüestió li apareix a l’alumn
 més gran, és que existeix alguna altra manera de resoldre la qüestió on no és
 necessari treballar amb aquest sistema).
 
-## Description
+## DESCRIPCIÓ
 
-## Screenshots
+## SCREENSHOTS
 
 
-## Technologies
+## TECHNOLOGIES
 
 Angular?
 Flask?
 
-## Finished Tasks
+## FINISHED TASKS
 
 - [x] Nada
 
-## Difficulties
+## DIFFICULTIES
 
-## Trello
+## TRELLO
 
 https://trello.com/invite/b/CSW8St8F/c306d4bb85bf50c8b3c89b9c948dd83c/numero-3
