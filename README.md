@@ -18,8 +18,15 @@ necessari treballar amb aquest sistema).
 
 ## Technologies
 
+Angular?
+Flask?
+
 ## Finished Tasks
+
 - [x] Nada
 
 ## Difficulties
 
+## Trello
+
+https://trello.com/invite/b/CSW8St8F/c306d4bb85bf50c8b3c89b9c948dd83c/numero-3
