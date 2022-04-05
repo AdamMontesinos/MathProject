@@ -1,0 +1,16 @@
+body{
+    font-family:"Open Sans",sans-serif
+
+}
+    .intro {
+        font-size: 25px;
+         transition: all .5s ease;
+    }
+    .body {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .iconos {
+        max-width: 50px;
+        margin: auto;
+    }
