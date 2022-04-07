@@ -1,0 +1,37 @@
+<app-nav-bar></app-nav-bar>
+
+<main class="container">
+    <div class="tabs is-toggle is-fullwidth">
+        <ul>
+          <li>
+            <a>
+              <span class="icon is-small"><i class="fas fa-image" aria-hidden="true"></i></span>
+              <span (click)="OpenTeoria()">Teoría</span>
+            </a>
+          </li>
+          <li>
+            <a>
+              <span class="icon is-small"><i class="fas fa-music" aria-hidden="true"></i></span>
+              <span (click)="OpenExercicis()">Exercicis</span>
+            </a>
+          </li>
+          <li class="is-active">
+            <a>
+              <span class="icon is-small"><i class="fas fa-film" aria-hidden="true"></i></span>
+              <span>Calculadora</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <section class="section">
+            <div class="content">
+                <h1>Calculadora</h1>   
+                <br>
+            </div> 
+            <input class="input is-info" type="text" placeholder="Num" [(ngModel)]="s1"><span class="simbols">x<sup>2</sup></span><span class="simbols">+</span><input class="input is-info" type="text" placeholder="Num" [(ngModel)]="s2"><span class="simbols">x</span><span class="simbols">+</span><input class="input is-info" type="text" placeholder="Num" [(ngModel)]="s3"><span class="simbols">=</span><span class="simbols">0</span>
+            <br>
+            <br>
+            <button (click)="calc()" class="button is-link">Calcular</button>
+            <br>
+      </section>
+</main>
